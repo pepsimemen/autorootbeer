@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "let-me-drink",
+    "author": "Alteria / Loggeru",
+    "description": "Auto-drink Lein's Root Beer after you use buff skills.",
+    "options": {
+        "niceName": "Lemme Drink"
+    },
+    "servers": ["https://raw.githubusercontent.com/pepsimemen/autorootbeer/master/"],
+    "supportUrl": "https://github.com/pepsimemen/autorootbeer/issues"
+}

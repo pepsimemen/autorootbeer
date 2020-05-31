@@ -1,0 +1,14 @@
+{
+    "files": {
+        "README.md": "21b9025b269f032b678f6d89c18d59870717ad1b7faa244499fee6c0fabb31f6",
+        "index.js": "48dad10c2446755d58be3f208bdf110675081f981dc6f34b42717e50d716a8bd",
+        "module.json": "3bd91ef7e8ebbf7ed2e645cb24e20aea1b8409e505c98994736600f6be9e1435",
+        "skills.js": "9a25eea991344fcba94bededff4fa710d5f4a3b2ccd3ce61f38b2e22e86502ce"
+    },
+    "defs": {
+        "C_NOTIMELINE_SKILL": 3,
+        "C_START_SKILL": 7,
+        "C_USE_ITEM": 3,
+        "S_LOGIN": [13,14]
+    }
+}
